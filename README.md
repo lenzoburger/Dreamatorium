@@ -24,6 +24,6 @@
 #### Tools and Dependencies
 1. [Unity Game Engine](https://store.unity.com/download-nuo)
 #### Run
-1. Clone repo: `https://github.com/lenzoburger/Dreamatorium`
+1. Clone repo: `https://github.com/lenzoburger/Dreamatorium.git`
 2. Launch [Unity Game Engine](https://store.unity.com/download-nuo)
 3. Open Project in Unity & run
