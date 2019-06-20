@@ -1,5 +1,5 @@
 # Dreamatorium
-[Dreamatorium](http://www.cs.otago.ac.nz/cosc360/game-projects-dreamatorium.php) is 2D puzzle/adventure platformer. Journey through a total of three dreamscapes in order to face off against your worst enemy in an epic battle.
+[Dreamatorium](http://www.cs.otago.ac.nz/cosc360/game-projects-dreamatorium.php/#unityPlayer) is 2D puzzle/adventure platformer. Journey through a total of three dreamscapes in order to face off against your worst enemy in an epic battle.
 
 ![alt text](Assets/Snapshots/Dreamscape.jpg)
 
